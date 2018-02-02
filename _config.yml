@@ -2,7 +2,7 @@ theme: jekyll-theme-cayman
 title: "جلسات هم‌نشینی NSTehran"
 author: Amir Abbas Mousavian
 description: > # this means to ignore newlines
-  در اینجا گروهی از توسعه دهندگان iOS و macOS که علاقه مند به یادگیری و یاد دادن تکنولوژی های جدید در حوزه برنامه نویسی Cocoa هستیم دور هم جمع شدیم.
+  در اینجا گروهی از توسعه دهندگان iOS و macOS که علاقه مند به یادگیری و یاد دادن تکنولوژی های جدید در حوزه برنامه نویسی Cocoa هستیم دور هم جمع شدیم.\n
   خوشحال میشیم شما هم در صورت علاقه به ما ملحق شوید.
 lang: fa_IR
 github:

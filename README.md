@@ -1,3 +1,3 @@
-# Workgroups
+# Meetup
 
-Please visit [Workgroup site](https://nstehran.github.io/Workgroups/) to view site.
+Please visit [Meetup site](https://nstehran.github.io/meetup/) to view site.

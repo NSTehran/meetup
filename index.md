@@ -8,8 +8,8 @@
 | XCTest | XCUITest | Test | [موسی‌لو][farshadmb] / [موسویان][amosavian] | TBD |   |
 | Drag & Drop | NSProgress | پایه | [موسویان][amosavian] | TBD |   |
 | Memory Management | - | پایه | [موسویان][amosavian] | TBD |   |
-| Design patterns 1 | MVC, MVVM, React | استراتژی | TBD | TBD |   |
-| Design patterns 2 | MVC, MVVM, React | استراتژی | TBD | TBD |   |
+| Architecture 1 | MVC, MVVM | استراتژی | TBD | TBD |   |
+| Architecture 2 | MVC, MVVM | استراتژی | TBD | TBD |   |
 | Persistency | Codable, NSCoding, NSKeyedArchiver | پایه | [عرفان سیدی][NSErfan] / [موسویان][amosavian] | TBD |   |
 | AVFoundation | - | UI/Graphics | TBD | TBD |   |
 | Concurrency | GCD, NSOperation | پایه | TBD | TBD |   |

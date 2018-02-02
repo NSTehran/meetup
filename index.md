@@ -17,6 +17,7 @@
 | Continuous Integration | Fastlane, Travis, BuddyBuild | استراتژی | TBD  | TBD |   |
 | Swift Server | Vapor, Kitura, Perfect | شبکه / بک‌اند | [فرزاد نظیفی][euwars] | TBD |   |
 | CoreML | - | Machine Learning | [فرزاد نظیفی][euwars] | TBD |   |
+| Reactive Programming | RxSwift, PromiseKit | استراتژی | [فرزاد نظیفی][euwars]/[علیخانی][devAlikhani]| TBD |   |
 
 [amosavian]: https://github.com/amosavian
 [farshadmb]: https://github.com/farshadmb

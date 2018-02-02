@@ -1,23 +1,33 @@
-| عنوان  | عنوان فرعی | مجموعه | پیشنهاد/ارایه دهنده | وضعیت/تاریخ برگزاری | ویدیو |
+## جلسه‌های برگزار شده
+
+| عنوان  | عنوان فرعی | رده | ارایه دهنده | وضعیت/تاریخ برگزاری | ویدیو |
 | -----  | --------- |:------:|:-------------------:|:-------------------:|:-----:|
 | [URLSession][URLSession-index] | - | شبکه | [موسویان][amosavian] | ۲۴ آذر ۱۳۹۶ | [آپارات][URLSession-aparat] |
 | [Autolayout][Autolayout-index] | - | UI | [علیخانی][devAlikhani] / [موسی‌لو][farshadmb] | [۲۱ دی ۱۳۹۶][Autolayout-evand] | [آپارات][Autolayout-aparat] |
 | [UIStackView][UIStackView-index] | - | UI | [موسی‌لو][farshadmb] / [عرفان سیدی][NSErfan] | ۲۸ دی ۱۳۹۶ | [آپارات][UIStackView-aparat] |
 | [Self sizing][SelfSizing-index] | Safe area | UI | [موسی‌لو][farshadmb] | [۱۲ بهمن ۱۳۹۶][SelfSizing-evand] |   |
-| Socket | NSStream | شبکه | [موسی‌لو][farshadmb] / [موسویان][amosavian] | TBD |   |
-| XCTest | XCUITest | Test | [موسی‌لو][farshadmb] / [موسویان][amosavian] | TBD |   |
-| Drag & Drop | NSProgress | پایه | [موسویان][amosavian] | TBD |   |
-| Memory Management | - | پایه | [موسویان][amosavian] | TBD |   |
-| Architecture 1 | MVC, MVVM | استراتژی | TBD | TBD |   |
-| Architecture 2 | MVC, MVVM | استراتژی | TBD | TBD |   |
-| Persistency | Codable, NSCoding, NSKeyedArchiver | پایه | [عرفان سیدی][NSErfan] / [موسویان][amosavian] | TBD |   |
-| AVFoundation | - | UI/Graphics | TBD | TBD |   |
-| Concurrency | GCD, NSOperation | پایه | TBD | TBD |   |
-| Database | CloudKit, Sqlite, Realm | پایه | TBD | TBD |   |
-| Continuous Integration | Fastlane, Travis, BuddyBuild | استراتژی | TBD  | TBD |   |
-| Swift Server | Vapor, Kitura, Perfect | شبکه / بک‌اند | [فرزاد نظیفی][euwars] | TBD |   |
-| CoreML | - | Machine Learning | [فرزاد نظیفی][euwars] | TBD |   |
-| Reactive Programming | RxSwift, PromiseKit | استراتژی | [فرزاد نظیفی][euwars]/[علیخانی][devAlikhani]| TBD |   |
+
+## جلسه‌های پیشنهادی
+
+| عنوان  | عنوان فرعی | رده | پیشنهاد/ارایه دهنده | وضعیت برگزاری |
+| -----  | --------- |:------:|:-------------------:|:-------------------:|:-----:|
+| Concurrency | GCD, NSOperation | پایه | TBD | TBD |
+| Persistency | Codable, NSCoding, NSKeyedArchiver | پایه | [عرفان سیدی][NSErfan] / [موسویان][amosavian] | TBD |
+| Database | CloudKit, Sqlite, Realm | پایه | TBD | TBD |
+| Memory Management | - | پایه | [موسویان][amosavian] | TBD |
+| Drag & Drop | NSProgress | پایه / UI | [موسویان][amosavian] | TBD |
+| AVFoundation | - | UI/Graphics | TBD | TBD |
+| XCTest | XCUITest | Unit Test | [موسی‌لو][farshadmb] / [موسویان][amosavian] | TBD |
+| Architecture | MVC, MVVM | استراتژی | TBD | TBD |
+| Reactive Programming | RxSwift, PromiseKit | استراتژی | [فرزاد نظیفی][euwars] / [علیخانی][devAlikhani]| TBD |
+| Continuous Integration | Fastlane, Travis, BuddyBuild | استراتژی | TBD  | TBD |
+| Socket | NSStream | شبکه | [موسی‌لو][farshadmb] / [موسویان][amosavian] | TBD |
+| Swift Server | Vapor, Kitura, Perfect | شبکه / بک‌اند | [فرزاد نظیفی][euwars] | TBD |
+| CoreML | - | Machine Learning | [فرزاد نظیفی][euwars] | TBD |
+
+## جلسه‌های راه دور
+
+هنوز جلسه‌ی راه دوری برگزار نشده است.
 
 [amosavian]: https://github.com/amosavian
 [farshadmb]: https://github.com/farshadmb

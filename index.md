@@ -27,6 +27,7 @@
 | Socket | NSStream | شبکه | [موسی‌لو][farshadmb] / [موسویان][amosavian] | TBD |
 | Swift Server | Vapor, Kitura, Perfect | شبکه / بک‌اند | [فرزاد نظیفی][euwars] | TBD |
 | CoreML | - | Machine Learning | [فرزاد نظیفی][euwars] | TBD |
+| Instruments | - | Performance Analysis | TBD | TBD |
 
 ## جلسه‌های راه دور
 

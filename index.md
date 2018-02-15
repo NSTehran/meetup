@@ -19,6 +19,7 @@
 | Reverse Engineering | Tweaks | پایه | [امیر فرساد][amirfrsd] | TBD |
 | CoreAnimation | UIBezierPath | UI | TBD | TBD |
 | Drag & Drop | NSProgress | UI / پایه | [موسویان][amosavian] | TBD |
+| Localization | - | UI / پایه | [موسویان][amosavian] | TBD |
 | AVFoundation | - | UI / Multimedia | TBD | TBD |
 | XCTest | XCUITest | Unit Test | [موسی‌لو][farshadmb] / [موسویان][amosavian] | TBD |
 | Architecture | MVC, MVVM | استراتژی | TBD | TBD |

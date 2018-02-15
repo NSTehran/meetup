@@ -29,7 +29,7 @@
 | Swift Server | Vapor, Kitura, Perfect | شبکه / بک‌اند | [فرزاد نظیفی][euwars] | TBD |
 | CoreML | - | Machine Learning | [فرزاد نظیفی][euwars] | TBD |
 | Instruments | - | Performance Analysis | TBD | TBD |
-| Swift scripting for Linux | - | scripting | [alirp88] | TBD |
+| Swift scripting for Linux | - | scripting | [علی ریاحی‌پور][alirp88] | TBD |
 
 ## جلسه‌های راه دور
 

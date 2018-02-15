@@ -29,6 +29,7 @@
 | Swift Server | Vapor, Kitura, Perfect | شبکه / بک‌اند | [فرزاد نظیفی][euwars] | TBD |
 | CoreML | - | Machine Learning | [فرزاد نظیفی][euwars] | TBD |
 | Instruments | - | Performance Analysis | TBD | TBD |
+| Swift scripting for Linux | - | scripting | [alirp88] | TBD |
 
 ## جلسه‌های راه دور
 
@@ -42,6 +43,7 @@
 [emranovin]: https://github.com/emranovin
 [amirfrsd]: https://github.com/amirfrsd
 [mkhoshpour]: https://github.com/mkhoshpour
+[alirp88]:https://github.com/alirp88
 
 [URLSession-index]: http://nstehran.ir/1396/10/26/دورهمی-nsurlsession/
 [URLSession-aparat]: https://www.aparat.com/video/video/embed/videohash/Ea4SM/vt/frame

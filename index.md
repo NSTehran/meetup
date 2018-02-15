@@ -6,6 +6,7 @@
 | [Autolayout][Autolayout-index] | - | UI | [علیخانی][devAlikhani] / [موسی‌لو][farshadmb] | [۲۱ دی ۱۳۹۶][Autolayout-evand] | [آپارات][Autolayout-aparat] |
 | [UIStackView][UIStackView-index] | - | UI | [موسی‌لو][farshadmb] / [عرفان سیدی][NSErfan] | ۲۸ دی ۱۳۹۶ | [آپارات][UIStackView-aparat] |
 | [Self sizing][SelfSizing-index] | Safe area | UI | [موسی‌لو][farshadmb] | [۱۲ بهمن ۱۳۹۶][SelfSizing-evand] |   |
+| [MVC 2.0][MVC2-index] | Child Viewcontroller | استراتژی | [فرزاد نظیفی][euwars] | [۲۶ بهمن ۱۳۹۶][MVC2-evand] |   |
 
 ## جلسه‌های پیشنهادی
 
@@ -22,7 +23,6 @@
 | Localization | - | UI / پایه | [موسویان][amosavian] | TBD |
 | AVFoundation | - | UI / Multimedia | TBD | TBD |
 | XCTest | XCUITest | Unit Test | [موسی‌لو][farshadmb] / [موسویان][amosavian] | TBD |
-| Architecture | MVC, MVVM | استراتژی | TBD | TBD |
 | Reactive Programming | RxSwift, PromiseKit | استراتژی | [فرزاد نظیفی][euwars] / [علیخانی][devAlikhani]| TBD |
 | Continuous Integration | Fastlane, Travis, BuddyBuild | استراتژی | [فرزاد نظیفی][euwars]  | TBD |
 | Socket | NSStream | شبکه | [موسی‌لو][farshadmb] / [موسویان][amosavian] | TBD |
@@ -54,3 +54,5 @@
 [UIStackView-aparat]: https://www.aparat.com/video/video/embed/videohash/8TGjB/vt/frame
 [SelfSizing-index]: http://nstehran.ir/1396/11/08/دورهمی-ui-development-self-sizing/
 [SelfSizing-evand]: https://evand.com/events/nstehran3
+[MVC2-index]: http://nstehran.ir/1396/11/17/دورهمی-mvc/
+[MVC2-evand]: https://evand.com/events/nstehran4

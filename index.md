@@ -1,12 +1,12 @@
 ## جلسه‌های برگزار شده
 
-| عنوان  | عنوان فرعی | رده | ارایه دهنده | تاریخ برگزاری | ویدیو |
+| عنوان  | عنوان فرعی | رده | ارایه دهنده | تاریخ برگزاری | ضمیمه‌ها |
 | -----  | --------- |:------:|:-------------------:|:-------------------:|:-----:|
 | [URLSession][URLSession-index] | - | شبکه | [موسویان][amosavian] | ۲۴ آذر ۱۳۹۶ | [آپارات][URLSession-aparat] |
 | [Autolayout][Autolayout-index] | - | UI | [علیخانی][devAlikhani] / [موسی‌لو][farshadmb] | [۲۱ دی ۱۳۹۶][Autolayout-evand] | [آپارات][Autolayout-aparat] |
 | [UIStackView][UIStackView-index] | - | UI | [موسی‌لو][farshadmb] / [عرفان سیدی][NSErfan] | ۲۸ دی ۱۳۹۶ | [آپارات][UIStackView-aparat] |
 | [Self sizing][SelfSizing-index] | Safe area | UI | [موسی‌لو][farshadmb] | [۱۲ بهمن ۱۳۹۶][SelfSizing-evand] |   |
-| [MVC 2.0][MVC2-index] | Child Viewcontroller | استراتژی | [فرزاد نظیفی][euwars] | [۲۶ بهمن ۱۳۹۶][MVC2-evand] |   |
+| [MVC 2.0][MVC2-index] | Child Viewcontroller | استراتژی | [فرزاد نظیفی][euwars] | [۲۶ بهمن ۱۳۹۶][MVC2-evand] | [آپارات][MVC2-aparat] <br/> [گیتهاب][MVC2-github] |
 
 ## جلسه‌های پیشنهادی
 
@@ -29,7 +29,7 @@
 | Swift Server | Vapor, Kitura, Perfect | شبکه / بک‌اند | [فرزاد نظیفی][euwars] | TBD |
 | CoreML | - | Machine Learning | [فرزاد نظیفی][euwars] | TBD |
 | Instruments | - | Performance Analysis | TBD | TBD |
-| Swift scripting for Linux | - | scripting | [علی ریاحی‌پور][alirp88] | TBD |
+| Swift scripting for Linux | - | Scripting | [علی ریاحی‌پور][alirp88] | TBD |
 
 ## جلسه‌های راه دور
 
@@ -46,13 +46,15 @@
 [alirp88]:https://github.com/alirp88
 
 [URLSession-index]: http://nstehran.ir/1396/10/26/دورهمی-nsurlsession/
-[URLSession-aparat]: https://www.aparat.com/video/video/embed/videohash/Ea4SM/vt/frame
+[URLSession-aparat]: https://www.aparat.com/v/ibPz0
 [Autolayout-index]: http://nstehran.ir/1396/10/26/دورهمی-ui-development/
 [Autolayout-evand]: https://evand.com/events/tehran-wwdc-1
-[Autolayout-aparat]: https://www.aparat.com/video/video/embed/videohash/ACJlk/vt/frame
+[Autolayout-aparat]: https://www.aparat.com/v/9KlEg
 [UIStackView-index]: http://nstehran.ir/1396/10/26/دورهمی-uistackview/
-[UIStackView-aparat]: https://www.aparat.com/video/video/embed/videohash/8TGjB/vt/frame
+[UIStackView-aparat]: https://www.aparat.com/v/sJcx2
 [SelfSizing-index]: http://nstehran.ir/1396/11/08/دورهمی-ui-development-self-sizing/
 [SelfSizing-evand]: https://evand.com/events/nstehran3
 [MVC2-index]: http://nstehran.ir/1396/11/17/دورهمی-mvc/
 [MVC2-evand]: https://evand.com/events/nstehran4
+[MVC2-aparat]: https://www.aparat.com/v/f2Nst
+[MVC2-github]: https://github.com/NSTehran/Session-4---MVC-2.0

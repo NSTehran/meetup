@@ -16,11 +16,11 @@
 | Model 1 | Codable, NSCoding, NSKeyedArchiver | پایه | [عرفان سیدی][NSErfan] / [موسویان][amosavian] | TBD |
 | Model 2 | CoreData | پایه | [عرفان سیدی][NSErfan] | TBD |
 | Database | CloudKit, Sqlite, Realm | پایه | TBD | TBD |
-| Memory Management | - | پایه | [موسویان][amosavian] | TBD |
+| [Memory Management][memory-management-outline] | - | پایه | [موسویان][amosavian] | TBD |
 | Reverse Engineering | Tweaks | پایه | [امیر فرساد][amirfrsd] | TBD |
 | CoreAnimation | UIBezierPath | UI | TBD | TBD |
 | Drag & Drop | NSProgress | UI / پایه | [موسویان][amosavian] | TBD |
-| Localization | - | UI / پایه | [موسویان][amosavian] | TBD |
+| [Localization][localization-outline] | - | UI / پایه | [موسویان][amosavian] | TBD |
 | AVFoundation | - | UI / Multimedia | TBD | TBD |
 | XCTest | XCUITest | Unit Test | [موسی‌لو][farshadmb] / [موسویان][amosavian] | TBD |
 | Reactive Programming | RxSwift, PromiseKit | استراتژی | [فرزاد نظیفی][euwars] / [علیخانی][devAlikhani]| TBD |
@@ -58,3 +58,6 @@
 [MVC2-evand]: https://evand.com/events/nstehran4
 [MVC2-aparat]: https://www.aparat.com/v/f2Nst
 [MVC2-github]: https://github.com/NSTehran/Session-4---MVC-2.0
+
+[memory-management-outline]: outlines/memory-management.md
+[localization-outline]: outlines/localization.md

@@ -52,6 +52,7 @@
 
 - کش و آزاد سازی
   - Memory Warning
+- Memory Mapping
 - Memory safty
   - Atomicity
 - لی‌آوت مموری

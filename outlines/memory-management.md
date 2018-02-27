@@ -2,19 +2,19 @@
 
 ## تاریخچه
 
-  - پیج ها و امضای آن
-  -  حافظه اجرایی
-- زبان فرترن و حافظه گلوبال
+- سگمنتاسیون
+- حافظه اجرایی
+- زبان غیرساختاریافته و حافظه گلوبال
 - زبان سی و استک
-  - کال استک
+  - اسنک فراخوانی
   - مزایا و محدودیت
 - هیپ
   - مدیریت دستی، معایب
-    - لیک
+    - نشت
     - دسترسی خارج محدوده و سوراخ امنیتی
   - کلاس و نمونه سازی
   - Garbage Collector
-    - Cyclic
+    - Tracing
       - مزایا (Linked list)
       - معایب
     - Static Analyzed
@@ -23,20 +23,21 @@
 ## انواع مدیریت حافظه در پلتفرم اپل
 
 - MRC
-- CoreFoundation classes
+  - CoreFoundation
 - ARC
   - By refrence
     - Copying
     - Mutable
   - By value
-    - Mutation, Copy on write
+    - Mutation
+    - Copy on write
 
-## ARC
+## نکات ARC
 
-- Hash Table
 - انتقال بین بلاک
+  - capture list
 - Retain cycle (سیکل رفرنس)
-  - closure retain (capture list)
+  - Cycle & Closure retaining
   - weak & unowned
   - Escaping
     - تفاوتشان و طریقه مدیریشان توسط سیستم
@@ -62,7 +63,4 @@
   - Pointer
   - Raw Pointer
   - Buffer Pointer
-
-## آینده
-
-- Rust style management
+- Future: Rust style management

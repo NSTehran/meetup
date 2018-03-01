@@ -34,13 +34,13 @@
 
 ## نکات ARC
 
-- انتقال بین بلاک
-  - capture list
 - Retain cycle (سیکل رفرنس)
   - Cycle & Closure retaining
   - weak & unowned
   - Escaping
     - تفاوتشان و طریقه مدیریشان توسط سیستم
+- بلاک و کلوژر
+  - capture list
 
 ## اشکال زدایی
 
@@ -50,11 +50,13 @@
 
 ## پیشرفته
 
+- autoreleasepool
 - کش و آزاد سازی
   - Memory Warning
 - Memory Mapping
 - Memory safty
   - Atomicity
+  - Thread safe
 - لی‌آوت مموری
   - Size, Stride, Alignment (CPU)
   - Contiguous allocation

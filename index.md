@@ -2,13 +2,13 @@
 
 | عنوان  | عنوان فرعی | رده | ارایه دهنده | تاریخ برگزاری | ضمیمه‌ها |
 | -----  | --------- |:------:|:-------------------:|:-------------------:|:-----:|
-| [URLSession][URLSession-index] | - | شبکه | [موسویان][amosavian] | ۲۴ آذر ۱۳۹۶ | [آپارات][URLSession-aparat] |
-| [Autolayout][Autolayout-index] | - | UI | [علیخانی][devAlikhani] / [موسی‌لو][farshadmb] | [۲۱ دی ۱۳۹۶][Autolayout-evand] | [آپارات][Autolayout-aparat] |
-| [UIStackView][UIStackView-index] | - | UI | [موسی‌لو][farshadmb] / [عرفان سیدی][NSErfan] | ۲۸ دی ۱۳۹۶ | [آپارات][UIStackView-aparat] |
-| [Self sizing][SelfSizing-index] | Safe area | UI | [موسی‌لو][farshadmb] | [۱۲ بهمن ۱۳۹۶][SelfSizing-evand] |   |
-| [MVC 2.0][MVC2-index] | Child Viewcontroller | استراتژی | [فرزاد نظیفی][euwars] | [۲۶ بهمن ۱۳۹۶][MVC2-evand] | [آپارات][MVC2-aparat] <br/> [گیتهاب][MVC2-github] |
-| [Memory Management 1][Session-5-index] | Heap and Stack | پایه | [موسویان][amosavian] | [۱۰ اسفند ۱۳۹۶][Session-5-evand] | [طرح کلی][memory-management-outline] <br/> [اسلاید][MemMan-1-keynote] |
-| [Reverse Engineering 1][Session-5-index] | Tweaks | پایه | [امیر فرساد][amirfrsd] | [۱۰ اسفند ۱۳۹۶][Session-5-evand] |  |
+| [URLSession][URLSession-index] | - | شبکه | [موسویان][amosavian] | ۲۴ آذر ۱۳۹۶ | [آپارات][URLSession-aparat] <br/> [یوتیوب][URLSession-youtube] |
+| [Autolayout][Autolayout-index] | - | UI | [علیخانی][devAlikhani] / [موسی‌لو][farshadmb] | [۲۱ دی ۱۳۹۶][Autolayout-evand] | [آپارات][Autolayout-aparat] <br/> [یوتیوب][Autolayout-youtube] |
+| [UIStackView][UIStackView-index] | - | UI | [موسی‌لو][farshadmb] / [عرفان سیدی][NSErfan] | ۲۸ دی ۱۳۹۶ | [آپارات][UIStackView-aparat] <br/> [یوتیوب][UIStackView-youtube] |
+| [Self sizing][SelfSizing-index] | Safe area | UI | [موسی‌لو][farshadmb] | [۱۲ بهمن ۱۳۹۶][SelfSizing-evand] |  |
+| [MVC 2.0][MVC2-index] | Child Viewcontroller | استراتژی | [فرزاد نظیفی][euwars] | [۲۶ بهمن ۱۳۹۶][MVC2-evand] | [گیتهاب][MVC2-github] <br/> [آپارات][MVC2-aparat] <br/> [یوتیوب][MVC2-youtube] |
+| [Memory Management 1][Session-5-index] | Heap and Stack | پایه | [موسویان][amosavian] | [۱۰ اسفند ۱۳۹۶][Session-5-evand] | [طرح کلی][memory-management-outline] <br/> [اسلاید][MemMan-1-keynote] <br/> [آپارات][MemMan-1-aparat] <br/> [یوتیوب][MemMan-1-youtube] |
+| [Reverse Engineering 1][Session-5-index] | Tweaks | پایه | [امیر فرساد][amirfrsd] | [۱۰ اسفند ۱۳۹۶][Session-5-evand] | [آپارات][Reverse-Eng-1-aparat] <br/> [یوتیوب][Reverse-Eng-1-youtube] |
 
 ## جلسه‌های پیشنهادی
 
@@ -49,13 +49,16 @@
 
 [URLSession-index]: http://nstehran.ir/1396/10/26/دورهمی-nsurlsession/
 [URLSession-aparat]: https://www.aparat.com/v/ibPz0
+[URLSession-youtube]: https://www.youtube.com/watch?v=wJovQPrl9kc
 
 [Autolayout-index]: http://nstehran.ir/1396/10/26/دورهمی-ui-development/
 [Autolayout-evand]: https://evand.com/events/tehran-wwdc-1
 [Autolayout-aparat]: https://www.aparat.com/v/9KlEg
+[Autolayout-youtube]: https://www.youtube.com/watch?v=Bq0j-bqdAp0
 
 [UIStackView-index]: http://nstehran.ir/1396/10/26/دورهمی-uistackview/
 [UIStackView-aparat]: https://www.aparat.com/v/sJcx2
+[UIStackView-youtube]: https://www.youtube.com/watch?v=q41qNZ-xHfU
 
 [SelfSizing-index]: http://nstehran.ir/1396/11/08/دورهمی-ui-development-self-sizing/
 [SelfSizing-evand]: https://evand.com/events/nstehran3
@@ -64,10 +67,15 @@
 [MVC2-evand]: https://evand.com/events/nstehran4
 [MVC2-aparat]: https://www.aparat.com/v/f2Nst
 [MVC2-github]: https://github.com/NSTehran/Session-4---MVC-2.0
+[MVC2-youtube]: https://www.youtube.com/watch?v=c93l2SQes1Q
 
 [Session-5-index]: https://nstehran.ir/1396/12/07/موضوع-دورهمی-مدیریت-حافظه-و-مهندسی-معک/
 [Session-5-evand]: https://evand.com/events/nstehran5
 [MemMan-1-keynote]: https://www.icloud.com/keynote/0ncZc81V0XuZ9pLZ8WT-82GuA#MemManage
+[MemMan-1-aparat]: https://www.aparat.com/v/FOnv0
+[MemMan-1-youtube]: https://www.youtube.com/watch?v=30cgKIJeRk8
+[Reverse-Eng-1-aparat]: https://www.aparat.com/v/FWV9r
+[Reverse-Eng-1-youtube]: https://www.youtube.com/watch?v=YbqkGh0HlZ4
 
 [memory-management-outline]: outlines/memory-management.md
 [localization-outline]: outlines/localization.md

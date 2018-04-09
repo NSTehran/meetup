@@ -15,7 +15,7 @@
 | عنوان  | عنوان فرعی | رده | پیشنهاد/ارایه دهنده | وضعیت برگزاری |
 | -----  | --------- |:------:|:-------------------:|:-------------------:|
 | Concurrency | GCD, NSOperation | پایه | TBD | TBD |
-| Model 1 | Codable, NSCoding, NSKeyedArchiver | پایه | [عرفان سیدی][NSErfan] / [موسویان][amosavian] | TBD |
+| [Model 1][archiving-outline] | Codable, NSCoding, NSKeyedArchiver | پایه | [موسی‌لو][farshadmb] / [موسویان][amosavian] | [۲۳ فروردین ۱۳۹۷][Model-1-evand] |
 | Model 2 | CoreData | پایه | [عرفان سیدی][NSErfan] | TBD |
 | Database | CloudKit, Sqlite, Realm | پایه | TBD | TBD |
 | [Memory Management][memory-management-outline] | - | پایه | [موسویان][amosavian] | TBD |
@@ -77,5 +77,8 @@
 [Reverse-Eng-1-aparat]: https://www.aparat.com/v/FWV9r
 [Reverse-Eng-1-youtube]: https://www.youtube.com/watch?v=YbqkGh0HlZ4
 
+[Model-1-evand]: https://evand.com/events/nstehran6
+
 [memory-management-outline]: outlines/memory-management.md
 [localization-outline]: outlines/localization.md
+[archiving-outline]: outlines/archiving.md

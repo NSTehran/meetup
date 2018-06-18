@@ -32,10 +32,12 @@
 | CoreML | - | Machine Learning | [فرزاد نظیفی][euwars] | TBD |
 | Instruments | - | Performance Analysis | TBD | TBD |
 | Swift scripting for Linux | - | Scripting | [علی ریاحی‌پور][alirp88] | TBD |
+| MPSCNN & BNNS | - | Neural Network | [ امیرحسام رعیت نیا][hrayatnia] | TBD |
 
 ## جلسه‌های راه دور
 
 هنوز جلسه‌ی راه دوری برگزار نشده است.
+
 
 [amosavian]: https://github.com/amosavian
 [farshadmb]: https://github.com/farshadmb
@@ -46,6 +48,7 @@
 [amirfrsd]: https://github.com/amirfrsd
 [mkhoshpour]: https://github.com/mkhoshpour
 [alirp88]:https://github.com/alirp88
+[hrayatnia]: https://githuv.com/hrayatnia
 
 [URLSession-index]: http://nstehran.ir/1396/10/26/دورهمی-nsurlsession/
 [URLSession-aparat]: https://www.aparat.com/v/ibPz0
